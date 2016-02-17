@@ -1,5 +1,7 @@
 # docker-alpine-travis-cli
 
+[![](https://badge.imagelayers.io/jamespamplin/alpine-travis-cli:latest.svg)](https://imagelayers.io/?images=jamespamplin/alpine-travis-cli:latest 'Get your own badge on imagelayers.io')
+
 Small docker image for the CLI to [Travis CI](http://travis-ci.org/).
 
 To run (in your project directory):
